@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Learn_Navigation</string>
+    <string name="app_name">ShopIt</string>
     <string name="lap_name_1">Apple MacBook Pro</string>
     <string name="lap_description_1">Fastest Laptop Yet,Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.     Price: ₹1,80,00</string>
     <string name="lap_name_2">HP Envy 13 </string>
