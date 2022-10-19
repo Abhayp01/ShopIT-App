@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Learn_Navigation</string>
+    <string name="lap_name_1">Apple MacBook Pro</string>
+    <string name="lap_description_1">Fastest Laptop Yet,Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.     Price: ₹1,80,00</string>
+    <string name="lap_name_2">HP Envy 13 </string>
+    <string name="lap_description_2">HP Envy 13 is a decent mainstream laptop, but it struggles to stand out – its got a superb screen, but thats the only area where it truly excels. Elsewhere, the Envy 13 has decent design, a reasonable keyboard and good battery life alongside solid performance from the Core i5 CPU and Nvidia GPU.    Price: ₹1,02,00</string>
+    <string name="lap_name_3">Asus VivoBook 15 </string>
+    <string name="lap_description_3">Whether at work or play, ASUS VivoBook 15 is the compact laptop that immerses you in whatever you set out to do./n Its new frameless four-sided NanoEdge display boasts an ultraslim 5.7mm bezel, giving an amazing 88% screen-to-body ratio for supremely immersive visuals. The new ErgoLift hinge design also tilts the keyboard up for more comfortable typing. VivoBook 15 is powered by up to the latest Intel® Core™ i7 processor with discrete NVIDIA® graphics and dual storage drives to help you get things done with the least amount of fuss.   Price: ₹40,000</string>
+
+    <string name="desk_name_1">iMac</string>
+    <string name="desk_description_1">The 24-inch iMac is a testament to the power and efficiency the M1 processor provides. Apple moved from the bulky-aging iMac chassis to an 11.5mm thin slab of aluminum with whisper-quiet fans. The 4.5K display with a slim bezel and colorful design will make your desk pop with Apple new style.     Price: ₹1,32,00</string>
+    <string name="desk_name_2">Asus M241</string>
+    <string name="desk_description_2">The Asus M241 is a low-cost all-in-one desktop that resembles a gold iMac and offers both a peppy Windows 10 experience and powerful sound.   Price:₹32,00</string>
+    <string name="desk_name_3">MSI Modern AM241P 11M</string>
+    <string name="desk_description_3">Better acoustics, plus the addition of USB-C ports and a high-res webcam, are steps in the right direction, making MSIs Modern AM241P 11M a solid, if unremarkable, budget AIO for small businesses and home offices.   Price: ₹50,00</string>
+
+    <string name="soft_name_1">Microsoft 365</string>
+    <string name="soft_description_1">Microsoft 365 Family costs $100 per year and includes full Office access for up to six people. As a bonus, it also includes 1TB of OneDrive storage per user, plus 60 minutes of Skype calling per month.</string>
+    <string name="soft_name_2">Quick Heal</string>
+    <string name="soft_description_2">Quick Heal product is designed to simplify IT security management across the length and depth of devices and on multiple platforms. They are customized to suit consumers, small businesses, Government establishments and corporate houses.</string>
+    <string name="soft_name_3">NordVPN</string>
+    <string name="soft_description_3">NordVPN is the best VPN if you’re looking for peace of mind when on public Wi-Fi. Securely access personal information or work files, encrypt your internet connection, and keep your browsing history and online identity private. Enjoy online privacy and security with NordVPN. </string>
+
+
+    <string name="expand_button_content_description">More/Less</string>
+    <string name="about">About:</string>
+
+</resources>
